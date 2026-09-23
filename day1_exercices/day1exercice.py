@@ -24,3 +24,20 @@ print(type(["Asbaneth", "python", "Finland"]))
 print(type("Entamene"))
 print(type("Louai"))
 print(type("France"))
+
+#Exercice 3
+
+print(1)
+print(1.1)
+print(1+1j)
+print("un")
+print("true")
+print(["Bonjour", "Bonsoir", "Au revoir"])
+print(("Earth", "Saturne", "Mars", "Sun"))
+print({1, 4, 5, 9})
+print({"Bonsoir":"Bonjour","Oui":"Non","Merci":"Derien"})
+
+#Exercice 3.2 Find an euclidian distance, i will use The Pythagore theorem 
+
+print((2**2 + 3**2)**0.5)
+print((10**2 + 8**2)**(1/2))

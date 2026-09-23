@@ -20,4 +20,10 @@ Dictionnary {
 "13,10":"2035",
 "false":"Abir"} (stock collection of data unordered in a key value pair format)
 
+Tuple:('Asabeneh', 'Pawel', 'Brook', 'Abraham', 'Lidiya') # Names
+A tuple is an ordererd collection of different data can not be modified once they created 
+They are immuable
+
+Set : {2, 4, 5, 6} A set is a collection type to similar list and tuples, unlike tuples set is not ordered 
+
 """
