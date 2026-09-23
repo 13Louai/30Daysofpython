@@ -26,4 +26,14 @@ They are immuable
 
 Set : {2, 4, 5, 6} A set is a collection type to similar list and tuples, unlike tuples set is not ordered 
 
+
+Something important to get an user answer we must tape : input("String for the question")
+Int() transform a string into a int dont work for numbres with something behind the point like int("15.5") don't work
+str() work with float
+float() transfrom an int into a float
+
+min([List]) give us the min of the list 
+max([list]) give us the max of the list 
+sum([])additione all the part of the list 
+
 """
