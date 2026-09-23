@@ -1,0 +1,23 @@
+print("Hello World")
+"Different types of variables in Python"
+"""We have different types of variables in Python. Some of the common types are:
+
+integer: -2,-1, 0, 1, 2 (all whole numbers from negative to positive)
+
+float: 3.14, 2.5 (numbers with decimal points)
+
+complex: 1+2j (numbers with real and imaginary parts)
+
+string: "Hello", 'World' (text enclosed in quotes)
+
+boolean: True, False (logical values)
+
+List: [1, 2, 3], ['a', 'b', 'c'] (ordered collection of items) The list can have
+different data types and can be modified after creation.
+
+Dictionnary {
+"Louai":"Ami",
+"13,10":"2035",
+"false":"Abir"} (stock collection of data unordered in a key value pair format)
+
+"""
